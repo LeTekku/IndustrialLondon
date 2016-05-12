@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "london/lnd_rooftile001"
+	"$bumpmap" "london/lnd_rooftile001_nrm"
+}
